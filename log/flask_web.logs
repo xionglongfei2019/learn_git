@@ -1,0 +1,9 @@
+2019-04-29 20:26:44,461 - _internal - werkzeug - INFO- 140736792310720 - INFO :  * Running on http://172.25.184.63:5001/ (Press CTRL+C to quit)
+2019-04-29 20:26:57,374 - _internal - werkzeug - INFO- 123145525342208 - INFO : 172.25.184.63 - - [29/Apr/2019 20:26:57] "POST /index?key_id=x HTTP/1.1" 200 -
+2019-04-29 20:41:53,629 - _internal - werkzeug - INFO- 123145525342208 - INFO : 172.25.184.63 - - [29/Apr/2019 20:41:53] "POST /index?key_id=x HTTP/1.1" 200 -
+2019-04-30 11:06:51,207 - _internal - werkzeug - INFO- 140736792310720 - INFO :  * Running on http://172.25.184.53:5003/ (Press CTRL+C to quit)
+2019-04-30 11:07:44,680 - _internal - werkzeug - INFO- 123145333366784 - INFO : 172.25.184.53 - - [30/Apr/2019 11:07:44] "GET / HTTP/1.1" 200 -
+2019-04-30 11:07:44,997 - _internal - werkzeug - INFO- 123145338621952 - INFO : 172.25.184.53 - - [30/Apr/2019 11:07:44] "GET /favicon.ico HTTP/1.1" 404 -
+2019-04-30 11:07:46,661 - _internal - werkzeug - INFO- 123145333366784 - INFO : 172.25.184.53 - - [30/Apr/2019 11:07:46] "GET / HTTP/1.1" 200 -
+2019-04-30 11:08:14,818 - _internal - werkzeug - INFO- 140736792310720 - INFO :  * Running on http://172.25.184.53:5003/ (Press CTRL+C to quit)
+2019-04-30 11:09:07,753 - _internal - werkzeug - INFO- 123145498382336 - INFO : 172.25.184.53 - - [30/Apr/2019 11:09:07] "POST /index?key_id=x HTTP/1.1" 200 -
